@@ -117,6 +117,8 @@ namespace CodingChallenge.Data.Tests
             Assert.AreEqual(
                 "<h1>Relatório de formas!</h1>2 Cuadrados | Area 29 | Perimetro 28 <br/>2 Círculos | Area 13,01 | Perimetro 18,06 <br/>3 Triángulos | Area 49,64 | Perimetro 51,6 <br/>1 Trapézio | Area 27,5 | Perimetro 19 <br/>1 Retângulo | Area 12 | Perimetro 16 <br/>TOTAL:<br/>9 formas  Perimetro 132,66 Area 131,15",
                 resumen);
+
+            
         }
 
         [TestCase]

@@ -53,10 +53,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Circulo.cs" />
+    <Compile Include="Classes\Contadores\ContadorTrapecios.cs" />
+    <Compile Include="Classes\Contadores\ContadorRectangulos.cs" />
+    <Compile Include="Classes\Contadores\ContadorTriangulosEquilateros.cs" />
+    <Compile Include="Classes\Contadores\ContadorCuadrados.cs" />
+    <Compile Include="Classes\Contadores\ContadorCirculos.cs" />
+    <Compile Include="Classes\Contadores\ContadorCleaner.cs" />
+    <Compile Include="Classes\Contadores\ContadorResolver.cs" />
     <Compile Include="Classes\Cuadrado.cs" />
     <Compile Include="Classes\FormaGeometrica.cs" />
-    <Compile Include="Classes\GeneradorDeLineas.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\GeneradorDeLineas.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\GeneradorDeLineasTrapecio.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\GeneradorDeLineasTrianguloEquilatero.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\GeneradorDeLineasRectangulo.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\GeneradorDeLineasCuadrado.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\GeneradorDeLineasCirculo.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\CalculadorCantidadFormas.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\CalculadorAreaTotal.cs" />
+    <Compile Include="Classes\GeneradoresDeLineas\CalculadorPerimetroTotal.cs" />
     <Compile Include="Classes\Idiomas.cs" />
+    <Compile Include="Classes\Contadores\IContadorFormaGeometrica.cs" />
     <Compile Include="Classes\Rectangulo.cs" />
     <Compile Include="Classes\ReporteFormasGeometricas.cs" />
     <Compile Include="Classes\Trapecio.cs" />
