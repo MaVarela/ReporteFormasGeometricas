@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using CodingChallenge.Data.Classes;
 using NUnit.Framework;
+using CodingChallenge.Data.Classes.Reporte;
 
 namespace CodingChallenge.Data.Tests
 {

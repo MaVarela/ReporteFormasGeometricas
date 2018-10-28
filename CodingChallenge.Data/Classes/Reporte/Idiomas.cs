@@ -1,5 +1,5 @@
 ﻿
-namespace CodingChallenge.Data.Classes
+namespace CodingChallenge.Data.Classes.Reporte
 {
     /// <summary>
     /// Enumerado de idiomas

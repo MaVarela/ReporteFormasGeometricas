@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CodingChallenge.Data.Classes
+namespace CodingChallenge.Data.Classes.Reporte
 {
     /// <summary>
     /// Clase generadora de reporte de formas geométricas

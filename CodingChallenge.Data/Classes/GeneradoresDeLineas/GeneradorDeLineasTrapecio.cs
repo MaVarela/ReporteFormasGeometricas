@@ -1,4 +1,5 @@
 ﻿using CodingChallenge.Data.Classes.Contadores;
+using CodingChallenge.Data.Classes.Reporte;
 
 namespace CodingChallenge.Data.Classes.GeneradoresDeLineas
 {

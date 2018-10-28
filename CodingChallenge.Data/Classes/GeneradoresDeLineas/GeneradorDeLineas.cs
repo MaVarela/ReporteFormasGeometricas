@@ -1,4 +1,6 @@
 ﻿using CodingChallenge.Data.Classes.Contadores;
+using CodingChallenge.Data.Classes.FormasGeometricas;
+using CodingChallenge.Data.Classes.Reporte;
 using System;
 
 namespace CodingChallenge.Data.Classes.GeneradoresDeLineas

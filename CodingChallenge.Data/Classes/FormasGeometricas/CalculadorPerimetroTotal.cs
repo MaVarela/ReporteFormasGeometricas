@@ -1,6 +1,6 @@
 ﻿using CodingChallenge.Data.Classes.Contadores;
 
-namespace CodingChallenge.Data.Classes.GeneradoresDeLineas
+namespace CodingChallenge.Data.Classes.FormasGeometricas
 {
     /// <summary>
     /// Calculador de perímetro total de formas geométricas
